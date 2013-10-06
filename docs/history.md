@@ -1,13 +1,20 @@
-# History
+# About Us
 
-[write content here]
+## The Roots
 
-----
+George and Ruth Muroki the founders of Hope Ministries International came to the United states in 1986. With George first coming and spending a full year in Bible school before being joined by Ruth and their two children Caroline and Nicholas.Within a two years the family was blessed with their youngest MaryStella. The Muroki’s currently reside in Pittsburgh Pennsylvania. 
 
-NOTE for Nick (remove when done):
+## How It Began
 
-BTW the `.md` file format stands for "markdown". It would probably be worth your time to read up a little on how to use Markdown. The short explanation is that it's a way of marking up text for formatting it. For example, if you wrap a word in two asterisks characters, like this `**a word**` it will render as **a word** when processed.
+HMI was started with a simple vision. Reaching the lost for Christ in the heart of Kenya. George and Ruth Muroki who were born and raised in Kenya came to America in search of the training and support they would need to make that vision a reality. After several years of schooling and training the Muroki's went back to Kenya in 1993 and began the work they continue continue to this day. 
 
-You can read up on [using Markdown syntax here](http://daringfireball.net/projects/markdown/syntax). (In fact I used Markdown to make that text link) :wink:.
+## The Mission
 
-Pretty much every place that GitHub lets you enter text lets you use Markdown formatting. In fact, GitHub actually supports a few extra features, which we call "GitHub Flavored Markdown".
+The Ministry was started with three main goals:
+
+1. Reaching the lost for Christ
+2. Feed and clothe the less fortunate 
+3. Teach and train the Nationals to reach their own
+
+A lot has changed since they first set out to bring hope to their country but George and Ruth have made it their life's mission to see all three of these goals carried out. These tenants have been the foundation on which HMI has stood on for the last 20 years.Through the years they have seen many challenges and have had to adjust to the ever changing world of full time ministry. For about last 20 years the Muroki’s have split time between the United States and Kenya. While they are in the states they focus primarily on raising funds and support. While overseas they are involved in running several churches and a school they started soon after reestablishing their presence in Kenya. 
+
