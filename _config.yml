@@ -1,8 +1,8 @@
 # Site settings
-title: "Jekyll Boilerplate"
-description: "site description goes here"
+title: "HOPE"
+description: "HOPE Ministries International is a non-profit organization focused on poverty relief in Kenya."
 
-url: "http://yourdomain.com"
+url: "http://hmiafrica.org"
 
 # Build settings
 markdown: kramdown
